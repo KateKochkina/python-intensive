@@ -1,0 +1,10 @@
+************* Module lru_cache
+lru_cache.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+lru_cache.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+lru_cache.py:3:4: R0903: Too few public methods (1/2) (too-few-public-methods)
+lru_cache.py:44:4: C0116: Missing function or method docstring (missing-function-docstring)
+lru_cache.py:54:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.17/10
+

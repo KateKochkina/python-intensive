@@ -2,10 +2,10 @@ class LRUCache:
 
     class _ListNode:
 
-        def __init__(self, key, val=None, next=None, prev=None):
+        def __init__(self, key, val=None, nxt=None, prev=None):
             self.key = key
             self.val = val
-            self.next = next
+            self.next = nxt
             self.prev = prev
 
         def __repr__(self):
@@ -81,4 +81,3 @@ class LRUCache:
             if node:
                 res += ' -> '
         return res
-
